@@ -1,0 +1,8 @@
+It is noticed that:
+If i placed dropna first then remove duplicates then there will be 3573 rows means two more rows
+If i placed remove duplicates first then dropna then there will be 3571 rows and cell with messages like
+C:\Users\BILAL.COM\AppData\Local\Temp\ipykernel_3944\1379821321.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df.dropna(inplace=True)

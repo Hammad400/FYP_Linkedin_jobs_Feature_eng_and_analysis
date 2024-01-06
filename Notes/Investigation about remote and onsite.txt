@@ -1,0 +1,13 @@
+7 Dec 2023
+
+As it is noticed during analysis of 26 sep to 9 oct that onsite-remote information are in existing in both columns :Job info and job type
+so i had generated two features 'Remote/Onsite' from 'job info' and 'Remote/Onsite-2' from 'job type'
+
+so on 7th december it is investigated that pattern changed on 9th october file at 119th row of Excel and expected 117th index of 9th october file.
+
+It is confirmed by manually exploring Excel files of week 2 and week 3 that before this onsite remote is in 'job info' feature and after that remote onsite is 
+in 'job type' feature 
+
+I also confirmed that if onsite-remote is not mentioned then there is only one element in 'job type' that is Fulltime etc and onsite-remote is not present
+in 'job info' feature
+

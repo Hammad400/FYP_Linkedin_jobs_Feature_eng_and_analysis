@@ -1,0 +1,23 @@
+dated:12 December 2023
+
+It is noticed that:
+in daily files not duplicated folder , 
+till week:7th
+total no jobs links:12904
+
+without duplication:
+total no job links:10208
+
+calculated in :
+Concatenating-week files into one file.ipnb file
+
+BUT:
+
+after concatenation of scrapped details and descriptions:
+according to :Files used in current analysis folder
+
+total no of jobs in jobs details files:15875
+total no of jobs in jobs descriptions files:15947
+
+expectations: no of jobs details = no of jobs descriptions = no of jobs links in not duplicated folder
+
