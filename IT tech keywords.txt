@@ -1,0 +1,17 @@
+python,ios,android,desktop,Flutter,C++,UI/UX,html,css,scrapper,Game,unreal_engine dev,Uniity,.net,AI,desktop,testing,SQA,Devops,Cloud,AWS,SQl,oracle,Data analyst ,Business Analyst,powerBI,tabulea,
+database,analyst,ML,DL,CV,Network,Web3/Blockchain,Security,MS office,
+AR/VR
+Scrum
+LINUX
+salesforce
+poduct manager
+SaaS
+Technical Support
+customer Support
+CHATBOT
+
+
+
+
+
+Sales engineer
